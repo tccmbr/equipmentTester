@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import equipment
+
 __author__ = "Ewerton Oliveira"
 __credits__ = ["Ewerton Oliveira"]
 __license__ = "GPL"
@@ -8,8 +10,6 @@ __version__ = "0.0.1"
 __maintainer__ = "Ewerton Oliveira"
 __email__ = "ewerton.tccmbr@gmail.com"
 __status__ = "Development"
-
-import equipment
 
 
 class Application:
@@ -44,4 +44,3 @@ class Application:
 
 if __name__ == '__main__':
     app = Application()
-
