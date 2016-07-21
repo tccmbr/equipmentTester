@@ -7,7 +7,7 @@ import json
 __author__ = "Ewerton Oliveira"
 __credits__ = ["Ewerton Oliveira"]
 __license__ = "GPL"
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 __maintainer__ = "Ewerton Oliveira"
 __email__ = "ewerton.tccmbr@gmail.com"
 __status__ = "Development"
