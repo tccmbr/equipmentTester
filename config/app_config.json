@@ -1,0 +1,16 @@
+{
+  "connection": {
+    "username": "",
+    "password": "",
+    "port": 22,
+    "host": ""
+  },
+  "ubiquiti": {
+    "username": "ubnt",
+    "http_port": 80,
+    "ssh_port": 22,
+    "wpasecret": "",
+    "file_XW_update": "",
+    "file_XM_update": ""
+  }
+}
